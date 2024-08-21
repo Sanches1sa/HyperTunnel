@@ -2,7 +2,7 @@ import math
 
 # Define the two MAC addresses
 mac_address1 = 'add ur mac-adress'
-mac_address2 = 'F0:DE:F1:6B:83:57'
+mac_address2 = 'add ur telephone device mac'
 
 # Define the colors
 colors = ['red', 'green', 'blue', 'yellow', 'orange', 'purple']
