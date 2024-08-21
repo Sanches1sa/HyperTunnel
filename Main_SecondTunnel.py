@@ -112,7 +112,7 @@ def output_results(rotation_sequence1, bytes_of_information1, rotation_speed1,
             # that belongs to the hypertunnel function
             pass  # or some actual codint(mac_address1.replace(':', ''), 32) ^ int(mac_address2.replace(':', ''), 32)
 def hypertunnel_mac2():
-    return '254:142:10:11:94:26:22'
+    return '0c:71:8c:6e:45:e6'
 #this mac adress could to be the same, that such a device, antenna or hyper connection to another connected devices.
 def main():
     print("Hello, HyperTunnel!")
