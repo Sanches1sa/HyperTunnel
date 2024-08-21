@@ -1,7 +1,7 @@
 import math
 
 # Define the two MAC addresses
-mac_address1 = '00:26:9e:a4:ef:36'
+mac_address1 = 'add ur mac-adress'
 mac_address2 = 'F0:DE:F1:6B:83:57'
 
 # Define the colors
@@ -113,7 +113,7 @@ def output_results(rotation_sequence1, bytes_of_information1, rotation_speed1,
             pass  # or some actual codint(mac_address1.replace(':', ''), 32) ^ int(mac_address2.replace(':', ''), 32)
 def hypertunnel_mac2():
     return '254:142:10:11:94:26:22'
-
+#this mac adress could to be the same, that such a device, antenna or hyper connection to another connected devices.
 def main():
     print("Hello, HyperTunnel!")
 
